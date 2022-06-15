@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: white;
+  /* text-align: center; */
+  font-weight: normal;
+  font-size: 50px;
+}
+
+/* .phone {
+  text-align: center;
+} */
+
+a {
+  display: block;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#app-video {
+  margin: 25px auto;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  margin-top: 10px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+#icon {
+  margin: 25px auto;
+}
+
+#copyright {
+  text-align: right;
+}
